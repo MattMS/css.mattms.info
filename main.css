@@ -1,5 +1,6 @@
 @import url("http://fonts.googleapis.com/css?family=Ubuntu");
-body {
+body,
+html {
   font-family: 'Ubuntu', sans-serif;
   font-size: 1em;
 }
