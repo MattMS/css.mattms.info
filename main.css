@@ -18,6 +18,10 @@ a:hover {
   -webkit-text-decoration-style: solid;
   -moz-text-decoration-style: solid;
 }
+p {
+  line-height: 1.6em;
+  margin-bottom: 1.6em;
+}
 h1 {
   color: #8b0000;
   font-size: 3em;
