@@ -25,9 +25,9 @@ a different link for each word in a sentence.
 
 The quick brown fox jumps over the lazy dog.
 
-- http://en.wikipedia.org/wiki/Pangram
+- https://en.wikipedia.org/wiki/Pangram
 
-- http://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog
+- https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog
 
 
 #### Heading 4
@@ -41,7 +41,7 @@ dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
 officia deserunt mollit anim id est laborum.
 
-- http://en.wikipedia.org/wiki/Lorem_ipsum
+- https://en.wikipedia.org/wiki/Lorem_ipsum
 
 
 ##### Heading 5
@@ -49,4 +49,4 @@ officia deserunt mollit anim id est laborum.
 Etaoin shrdlu is the approximate order of frequency of the twelve most
 commonly used letters in the English language.
 
-- http://en.wikipedia.org/wiki/Etaoin_shrdlu
+- https://en.wikipedia.org/wiki/Etaoin_shrdlu
