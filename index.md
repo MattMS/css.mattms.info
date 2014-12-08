@@ -12,7 +12,13 @@
 
 ## Heading 2
 
-So this page is to test CSS that is used to display Markdown.
+This page is testing the CSS used to display my Markdown sites.
+
+I coloured the headings as RGB (inspired by
+[Blender](https://www.blender.org/)).
+
+Links always have an underline because I dislike the practice of giving
+a different link for each word in a sentence.
 
 
 ### Heading 3
