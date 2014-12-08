@@ -6,13 +6,17 @@ html {
 }
 a,
 a:visited {
-  text-decoration-line: underline;
-  text-decoration-style: dotted;
+  -webkit-text-decoration-line: underline;
+  -moz-text-decoration-line: underline;
+  -webkit-text-decoration-style: dotted;
+  -moz-text-decoration-style: dotted;
 }
 a:focus,
 a:hover {
-  text-decoration-line: underline;
-  text-decoration-style: solid;
+  -webkit-text-decoration-line: underline;
+  -moz-text-decoration-line: underline;
+  -webkit-text-decoration-style: solid;
+  -moz-text-decoration-style: solid;
 }
 h1 {
   color: #8b0000;
