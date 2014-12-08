@@ -5,28 +5,34 @@ html {
   font-size: 1em;
 }
 h1 {
+  color: #8b0000;
   font-size: 3em;
   font-weight: normal;
 }
 h2 {
+  color: #006400;
   font-size: 2.4em;
   font-weight: normal;
 }
 h3 {
+  color: #00008b;
   font-size: 1.8em;
-  font-weight: bold;
+  font-weight: normal;
 }
 h4 {
+  color: #8b0000;
   font-size: 1.6em;
   font-weight: normal;
 }
 h5 {
+  color: #006400;
   font-size: 1.2em;
   font-weight: normal;
 }
 h6 {
+  color: #00008b;
   font-size: 1em;
-  font-weight: bold;
+  font-weight: normal;
 }
 ul {
   padding-left: 1.6em;
