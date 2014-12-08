@@ -61,6 +61,9 @@ li {
 li > p {
   margin-bottom: 0;
 }
+hr {
+  margin-top: 2em;
+}
 .container {
   margin: 0 auto;
   max-width: 36em;
