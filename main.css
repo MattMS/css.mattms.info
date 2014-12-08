@@ -59,7 +59,7 @@ li {
   margin-bottom: 1em;
 }
 li > p {
-  margin-bottom: 0em;
+  margin-bottom: 0;
 }
 .container {
   margin: 0 auto;
