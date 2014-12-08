@@ -4,6 +4,16 @@ html {
   font-family: 'Ubuntu', sans-serif;
   font-size: 1em;
 }
+a,
+a:visited {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+a:focus,
+a:hover {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
 h1 {
   color: #8b0000;
   font-size: 3em;
