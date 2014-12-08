@@ -14,8 +14,8 @@
 
 This page is testing the CSS used to display my Markdown sites.
 
-I coloured the headings as RGB (inspired by
-[Blender](https://www.blender.org/)).
+I coloured the headings as RGB (inspired by the
+[Blender](https://www.blender.org/) axis tool).
 
 Links always have an underline because I dislike the practice of giving
 a different link for each word in a sentence.
