@@ -73,6 +73,12 @@ body,
 html {
   background-color: #111;
 }
+a {
+  color: #88f;
+}
+a:visited {
+  color: #ccf;
+}
 h1 {
   color: #f08080;
 }
