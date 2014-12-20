@@ -1,8 +1,7 @@
 # CSS styles
 
-This repo aims to provide the minimum CSS required to make a site
-created with [Markdown](http://daringfireball.net/projects/markdown/)
-decent to view.
+This repo provides CSS for sites created with
+[Markdown](http://daringfireball.net/projects/markdown/).
 
 
 ## Styles
@@ -23,16 +22,19 @@ Install [Gulp](http://gulpjs.com/) globally with:
 
 	npm install -g gulp
 
-Clone the repo and install the dependencies:
+Clone the repo:
 
 	git clone https://github.com/MattMS/css.mattms.info.git
 	cd css.mattms.info
+
+Install the dependencies:
+
 	npm install
 
-To update the HTML and CSS with any changes to the Markdown or Stylus:
+Update the HTML and CSS after changes to the Jade, Markdown or Stylus:
 
 	gulp
 
-To start a local server to view your changes:
+Start a local server to view changes:
 
 	python -m http.server 1337
