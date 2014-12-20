@@ -5,7 +5,16 @@ created with [Markdown](http://daringfireball.net/projects/markdown/)
 decent to view.
 
 
-## Usage
+## Styles
+
+- [Basic dark](/basic/dark/)
+
+- [Basic light](/basic/light/)
+
+- [Solarized dark](/solarized/dark/)
+
+
+## Local demo or development
 
 You will need [Node.js](http://nodejs.org/) and
 [Python 3](https://www.python.org/) installed.
