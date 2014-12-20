@@ -7,7 +7,9 @@ html(lang="en")
 		meta(name="description" content="CSS test page")
 		meta(name="viewport", content="width=device-width, initial-scale=1")
 		title CSS test page by MattMS
-		link(rel="stylesheet", href="/light.css")
+
+		link(href="/light.css", rel="stylesheet", title="Light", type="text/css")
+		link(href="/solarized/dark.css", rel="alternate stylesheet", title="Solarized dark", type="text/css")
 	body
 		.container
 			block content
