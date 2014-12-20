@@ -8,6 +8,10 @@ gulp.task 'default', ->
 	.pipe jade()
 	.pipe gulp.dest '.'
 
+	gulp.src './**/index.jade'
+	.pipe jade()
+	.pipe gulp.dest '.'
+
 	gulp.src './*.styl'
 	.pipe stylus()
 	.pipe gulp.dest '.'
