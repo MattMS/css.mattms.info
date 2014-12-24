@@ -10,27 +10,30 @@
 
 ###### Heading 6
 
-## Heading 2
+## About this page
 
 This page is testing the CSS used to display my Markdown sites.
 
-I coloured the headings as RGB (inspired by the
-[Blender](https://www.blender.org/) axis tool).
+I coloured the headings as RGB, inspired by the
+[Blender](https://www.blender.org/) axis tool.
 
-Links always have an underline because I dislike the practice of giving
-a different link for each word in a sentence.
+Links always have an underline so they do not rely on colour to identify
+them.
 
 
-### Heading 3
+### The quick brown fox
 
 The quick brown fox jumps over the lazy dog.
+
+A pangram is a sentence using every letter of the alphabet at least
+once.
 
 - https://en.wikipedia.org/wiki/Pangram
 
 - https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog
 
 
-#### Heading 4
+#### Lorem ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.
@@ -45,7 +48,7 @@ officia deserunt mollit anim id est laborum.
 - https://en.wikipedia.org/wiki/Lorem_ipsum
 
 
-##### Heading 5
+##### Etaoin shrdlu
 
 Etaoin shrdlu is the approximate order of frequency of the twelve most
 commonly used letters in the English language.
