@@ -29,7 +29,7 @@ to
 
 ## Local demo or development
 
-You will need [Node.js](http://nodejs.org/) and
+You will need [Node.js](https://nodejs.org/) and
 [Python 3](https://www.python.org/) installed.
 
 Install [Gulp](http://gulpjs.com/) globally with:
