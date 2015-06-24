@@ -1,7 +1,7 @@
 # CSS styles
 
-This repo provides CSS for sites created with
-[Markdown](http://daringfireball.net/projects/markdown/).
+This repo provides CSS for sites using basic tags, like those created
+with [Markdown](http://daringfireball.net/projects/markdown/).
 
 
 ## Styles
