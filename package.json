@@ -1,25 +1,9 @@
 {
-  "name": "css.mattms.info",
-  "version": "0.1.0",
-  "description": "CSS test page",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MattMS/css.mattms.info.git"
-  },
-  "keywords": [
-    "CSS",
-    "test"
-  ],
   "author": "Matt McKellar-Spence",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MattMS/css.mattms.info/issues"
   },
-  "homepage": "http://css.mattms.info",
+  "description": "CSS test page",
   "devDependencies": {
     "coffee-script": "^1.8.0",
     "gulp": "^3.8.10",
@@ -28,5 +12,21 @@
     "jade": "^1.7.0",
     "marked": "^0.3.2",
     "stylus": "^0.49.3"
-  }
+  },
+  "keywords": [
+    "CSS",
+    "test"
+  ],
+  "homepage": "http://css.mattms.info",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "css.mattms.info",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattMS/css.mattms.info.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
 }
