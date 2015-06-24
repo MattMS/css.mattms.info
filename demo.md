@@ -45,6 +45,9 @@ dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
 officia deserunt mollit anim id est laborum.
 
+Lorem ipsum is filler text used to demonstrate a design by removing
+focus from the content.
+
 - https://en.wikipedia.org/wiki/Lorem_ipsum
 
 
