@@ -14,12 +14,11 @@
 
 This page is testing the CSS used to display my Markdown sites.
 
-I coloured the headings as RGB, inspired by the
-[Blender](https://www.blender.org/) axis tool.
-
 Links always have an underline so they do not rely on colour to identify
 them.
 
+
+## Demo text
 
 ### The quick brown fox
 
@@ -28,9 +27,9 @@ The quick brown fox jumps over the lazy dog.
 A pangram is a sentence using every letter of the alphabet at least
 once.
 
-- https://en.wikipedia.org/wiki/Pangram
+- [Pangram](https://en.wikipedia.org/wiki/Pangram)
 
-- https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog
+- [The quick brown fox jumps over the lazy dog](https://en.wikipedia.org/wiki/The quick brown fox jumps over the lazy dog)
 
 
 #### Lorem ipsum
@@ -48,7 +47,7 @@ officia deserunt mollit anim id est laborum.
 Lorem ipsum is filler text used to demonstrate a design by removing
 focus from the content.
 
-- https://en.wikipedia.org/wiki/Lorem_ipsum
+- [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
 
 
 ##### Etaoin shrdlu
@@ -56,4 +55,4 @@ focus from the content.
 Etaoin shrdlu is the approximate order of frequency of the twelve most
 commonly used letters in the English language.
 
-- https://en.wikipedia.org/wiki/Etaoin_shrdlu
+- [Etaoin shrdlu](https://en.wikipedia.org/wiki/Etaoin_shrdlu)
