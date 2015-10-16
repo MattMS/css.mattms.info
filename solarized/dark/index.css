@@ -69,6 +69,10 @@ hr {
   margin: 0 auto;
   max-width: 36em;
 }
+input,
+label {
+  display: block;
+}
 body,
 html {
   background-color: #002b36;
