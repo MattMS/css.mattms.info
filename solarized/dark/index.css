@@ -73,6 +73,10 @@ input,
 label {
   display: block;
 }
+label {
+  font-weight: bold;
+  margin-top: 1em;
+}
 body,
 html {
   background-color: #002b36;
